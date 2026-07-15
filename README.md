@@ -1,4 +1,4 @@
-# 🧠 Omar Badr — Math-First Machine Learning Roadmap
+# 🧠 Omar Ahmed Badr — Math-First Machine Learning Roadmap
 
 > **A mathematically rigorous, curated roadmap from first principles to production ML.**
 > Not a "just call `.fit()`" tutorial list. Every stage derives concepts from the ground up.
@@ -105,4 +105,4 @@ omar-badr-ml-roadmap/
 
 ---
 
-*Built with deep research across YouTube channels, university OCW, MOOCs, textbooks, and community discussions. Math-first. Free-first. Omar-first.*
+*Built with deep research across YouTube channels, university OCW, MOOCs, textbooks, and community discussions. Math-first. Free-first. Omar Ahmed Badr-first.*
